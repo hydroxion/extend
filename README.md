@@ -6,11 +6,15 @@ Um modulo ( [Lib](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o
 
 #### Execução
 
-Para executar você pode estar rodando o script **build** ou o arquivo **setup** diretamente com o seguinte comando : `python setup.py install`. Abaixo é mostrado como executar o script :
+Para executar você pode estar rodando o script **build** ( Que constrói a App + Logs ), como mostrado abaixo :
 
 `sudo su`
 
 `./build.sh`
+
+Ou pelo arquivo **setup** diretamente com o seguinte comando :
+
+`python setup.py install`
 
 #### Erro
 
@@ -25,7 +29,7 @@ a permissão de execução rodando em seu terminal `chmod +x build.sh` ( Esteja 
 
 ### Aprendizado
 
-[Arquivo So e Dll](http://bit.ly/2sf6GME)
+[Arquivo So e Dll](http://bit.ly/2sf6GME) ( Pt - Br )
 
 [Extending Python with C or C ++](https://docs.python.org/2/extending/extending.html) ( En )
 
