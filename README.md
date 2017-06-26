@@ -1,7 +1,9 @@
 
 ## Estendendo o [Python](https://www.python.org/doc/)
 
-Um modulo ( [Lib](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)) ) de *Hello, World !* em **C** estendido para Python :four_leaf_clover:
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f70050bbe97744c0ac5e798800e9d010)](https://www.codacy.com/app/Sphinxs/Extension?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sphinxs/Extension&amp;utm_campaign=Badge_Grade)
+
+Um [modulo](http://turing.com.br/pydoc/2.7/tutorial/modules.html) ( [Lib](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)) ) de *Hello, World !* em **C** estendido para Python :four_leaf_clover:
 
 
 #### Execução
