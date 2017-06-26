@@ -18,6 +18,14 @@ Ou pelo arquivo **setup** diretamente com o seguinte comando :
 
 `python setup.py install`
 
+Seja qual opção tenha escolhio, escolha uma opção de importação :
+
+`from module import hey`
+
+`import module`
+
+`from module import *` # Não recomendada
+
 #### Erro
 
 Para tratar o erro de permissão na execução do script que gera toda a App, forneça
