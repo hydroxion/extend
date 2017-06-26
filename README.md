@@ -1,10 +1,10 @@
 
-#### Estendendo o [Python](https://www.python.org/doc/)
+## Estendendo o [Python](https://www.python.org/doc/)
 
 Um modulo ( [Lib](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)) ) de *Hello, World !* em **C** estendido para Python :four_leaf_clover:
 
 
-##### Execução
+#### Execução
 
 Para executar você pode estar rodando o script **build** ou o arquivo **setup** diretamente com o seguinte comando : `python setup.py install`. Abaixo é mostrado como executar o script :
 
@@ -12,18 +12,18 @@ Para executar você pode estar rodando o script **build** ou o arquivo **setup**
 
 `./build.sh`
 
-##### Erro
+#### Erro
 
 Para tratar o erro de permissão na execução do script que gera toda a App, forneça
 a permissão de execução rodando em seu terminal `chmod +x build.sh` ( Esteja no diretório do mesmo ).
 
-#### Alternativas
+### Alternativas
 
 [Boost C ++](http://www.boost.org/doc/libs/1_39_0/libs/python/doc/index.html)
 
 [C Python](http://cython.org/)
 
-#### Aprendizado
+### Aprendizado
 
 [Arquivo So e Dll](http://bit.ly/2sf6GME)
 
