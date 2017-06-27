@@ -1,9 +1,9 @@
 
-## Estendendo o [Python](https://www.python.org/doc/)
+## Estendendo o Python
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f70050bbe97744c0ac5e798800e9d010)](https://www.codacy.com/app/Sphinxs/Extension?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sphinxs/Extension&amp;utm_campaign=Badge_Grade)
 
-Um [modulo](http://turing.com.br/pydoc/2.7/tutorial/modules.html) ( [Lib](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)) ) de *Hello, World !* em **C** estendido para Python :four_leaf_clover:
+Um [módulo](http://turing.com.br/pydoc/2.7/tutorial/modules.html) ( [Lib](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)) ) de *Hello, World !* em **C** estendido para Python :four_leaf_clover:
 
 
 #### Execução
@@ -14,11 +14,11 @@ Para executar você pode estar rodando o script **build** ( Que constrói a App 
 
 `./build.sh`
 
-Ou pelo arquivo **setup** diretamente com o seguinte comando :
+Ou diretamente pelo arquivo **setup** com o seguinte comando :
 
 `python setup.py install`
 
-Seja qual opção tenha escolhio, escolha uma opção de importação :
+Seja qual opção tenha escolhido, escolha uma opção de importação :
 
 `from module import hey`
 
@@ -29,13 +29,16 @@ Seja qual opção tenha escolhio, escolha uma opção de importação :
 #### Erro
 
 Para tratar o erro de permissão na execução do script que gera toda a App, forneça
-a permissão de execução rodando em seu terminal `chmod +x build.sh` ( Esteja no diretório do mesmo ).
+a permissão de execução rodando em seu terminal `chmod +x build.sh` ( Esteja no diretório do mesmo )
 
 ### Alternativas
 
 [Boost C ++](http://www.boost.org/doc/libs/1_39_0/libs/python/doc/index.html)
 
-[C Python](http://cython.org/)
+[Cython](http://cython.org/)
+
+[Swig](https://github.com/swig/swig)
+
 
 ### Aprendizado
 
