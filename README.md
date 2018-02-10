@@ -3,18 +3,15 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f70050bbe97744c0ac5e798800e9d010)](https://www.codacy.com/app/Sphinxs/Extension?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sphinxs/Extension&amp;utm_campaign=Badge_Grade)
 
-Um [módulo](http://turing.com.br/pydoc/2.7/tutorial/modules.html) ( [Lib](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)) ) de *Hello, World !* em **C** estendido para Python :four_leaf_clover:
-
-
 #### Execução
 
-Para executar você pode estar rodando o script **build** ( Que constrói a App + Logs ), como mostrado abaixo :
+Para executar você pode estar rodando o script **build** ( Que constrói a App + Logs ) :
 
 `sudo su`
 
 `./build.sh`
 
-Ou diretamente pelo arquivo **setup** com o seguinte comando :
+Ou diretamente pelo arquivo **setup** :
 
 `python setup.py install`
 
@@ -26,11 +23,6 @@ Seja qual opção tenha escolhido, escolha uma opção de importação :
 
 `from module import *` # Não recomendada
 
-#### Erro
-
-Para tratar o erro de permissão na execução do script que gera toda a App, forneça
-a permissão de execução rodando em seu terminal `chmod +x build.sh` ( Esteja no diretório do mesmo )
-
 ### Alternativas
 
 [Boost C ++](http://www.boost.org/doc/libs/1_39_0/libs/python/doc/index.html)
@@ -41,8 +33,6 @@ a permissão de execução rodando em seu terminal `chmod +x build.sh` ( Esteja 
 
 
 ### Aprendizado
-
-[Arquivo So e Dll](http://bit.ly/2sf6GME) ( Pt - Br )
 
 [Extending Python with C or C ++](https://docs.python.org/2/extending/extending.html) ( En )
 
