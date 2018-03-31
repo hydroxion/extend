@@ -1,5 +1,5 @@
 
-####Extension
+#### Extension
 
 :space_invader: Extending Python with C
 
@@ -7,10 +7,10 @@
 
 #### Execução
 
-Você pode construir a aplicação rodando `./build` ou :
+Para construir a aplicação execute `./build` ou :
 
 ```shell
-    sudo su`
+    sudo su
 
     ./build.sh
 ```
