@@ -1,27 +1,19 @@
 
-## Estendendo o Python
+####Extension
+
+:space_invader: Extending Python with C
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f70050bbe97744c0ac5e798800e9d010)](https://www.codacy.com/app/Sphinxs/Extension?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sphinxs/Extension&amp;utm_campaign=Badge_Grade)
 
 #### Execução
 
-Para executar você pode estar rodando o script **build** ( Que constrói a App + Logs ) :
+Você pode construir a aplicação rodando `./build` ou :
 
-`sudo su`
+```shell
+    sudo su`
 
-`./build.sh`
-
-Ou diretamente pelo arquivo **setup** :
-
-`python setup.py install`
-
-Seja qual opção tenha escolhido, escolha uma opção de importação :
-
-`from module import hey`
-
-`import module`
-
-`from module import *` # Não recomendada
+    ./build.sh
+```
 
 ### Alternativas
 
@@ -32,7 +24,7 @@ Seja qual opção tenha escolhido, escolha uma opção de importação :
 [Swig](https://github.com/swig/swig)
 
 
-### Aprendizado
+### Referências
 
 [Extending Python with C or C ++](https://docs.python.org/2/extending/extending.html) ( En )
 
